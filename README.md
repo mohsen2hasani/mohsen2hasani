@@ -1,5 +1,3 @@
 ### Hi there 👋
-
-[![mohsen2hasani's github stats](https://github-readme-stats.vercel.app/api?username=mohsen2hasani&count_private=true&theme=flag-india)](https://github.com/mohsen2hasani)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen2hasani&hide=TeX&layout=compact&count_private=true&theme=flag-india)
+| <a href="https://github.com/mohsen2hasani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen2hasani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mohsen2hasani"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen2hasani&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
